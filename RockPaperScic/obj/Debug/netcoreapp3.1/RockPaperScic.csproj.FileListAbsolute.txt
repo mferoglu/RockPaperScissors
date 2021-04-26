@@ -1,0 +1,13 @@
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\obj\Debug\netcoreapp3.1\RockPaperScic.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\obj\Debug\netcoreapp3.1\RockPaperScic.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\obj\Debug\netcoreapp3.1\RockPaperScic.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\obj\Debug\netcoreapp3.1\RockPaperScic.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\bin\Debug\netcoreapp3.1\RockPaperScic.exe
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\bin\Debug\netcoreapp3.1\RockPaperScic.deps.json
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\bin\Debug\netcoreapp3.1\RockPaperScic.runtimeconfig.json
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\bin\Debug\netcoreapp3.1\RockPaperScic.runtimeconfig.dev.json
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\bin\Debug\netcoreapp3.1\RockPaperScic.dll
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\bin\Debug\netcoreapp3.1\RockPaperScic.pdb
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\obj\Debug\netcoreapp3.1\RockPaperScic.dll
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\obj\Debug\netcoreapp3.1\RockPaperScic.pdb
+C:\Users\Muhammed\Desktop\kariyernet\RockPaperScissors\RockPaperScic\obj\Debug\netcoreapp3.1\RockPaperScic.genruntimeconfig.cache
